@@ -16,6 +16,7 @@
 ## String
 |  |
 | ------- |
+| [0521-longest-uncommon-subsequence-i](https://github.com/tanishq-sm/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0592-fraction-addition-and-subtraction](https://github.com/tanishq-sm/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 ## Simulation
 |  |
