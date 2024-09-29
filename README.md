@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/tanishq-sm/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/tanishq-sm/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Matrix
 |  |
@@ -27,4 +28,8 @@
 |  |
 | ------- |
 | [0541-reverse-string-ii](https://github.com/tanishq-sm/Leetcode/tree/master/0541-reverse-string-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/tanishq-sm/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
