@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/tanishq-sm/Leetcode/tree/master/0189-rotate-array) |
 | [0643-maximum-average-subarray-i](https://github.com/tanishq-sm/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/tanishq-sm/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Matrix
@@ -13,6 +14,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/tanishq-sm/Leetcode/tree/master/0189-rotate-array) |
 | [0592-fraction-addition-and-subtraction](https://github.com/tanishq-sm/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 ## String
 |  |
@@ -27,6 +29,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/tanishq-sm/Leetcode/tree/master/0189-rotate-array) |
 | [0541-reverse-string-ii](https://github.com/tanishq-sm/Leetcode/tree/master/0541-reverse-string-ii) |
 ## Sliding Window
 |  |
