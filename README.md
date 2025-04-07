@@ -6,6 +6,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/tanishq-sm/Leetcode/tree/master/0189-rotate-array) |
 | [0643-maximum-average-subarray-i](https://github.com/tanishq-sm/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0792-binary-search](https://github.com/tanishq-sm/Leetcode/tree/master/0792-binary-search) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/tanishq-sm/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Matrix
 |  |
@@ -35,4 +36,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/tanishq-sm/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/tanishq-sm/Leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
